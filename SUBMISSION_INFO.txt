@@ -1,0 +1,19 @@
+HW#1 Submission Information
+
+Student: CHANG TING WEI (張庭維)
+Student ID: M1461013
+Program: Graduate Institute of Artificial Intelligence, Chang Gung University
+
+1. Published Website URL:
+   [Deploy this folder to GitHub Pages / Vercel and paste the public URL here before submission.]
+
+2. Source Code:
+   Included in this ZIP: index.html, styles.css, script.js
+
+3. AI Interaction Log:
+   AI_Interaction_Log.md
+
+4. Reflection (300-500 words):
+   Reflection.pdf
+
+Important: The course handout requires a working public URL. This is the only item that depends on an external hosting account and therefore cannot be embedded in the ZIP until the site is deployed.
